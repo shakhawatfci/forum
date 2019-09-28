@@ -1,2 +1,2 @@
 # forum
-a forum for question and answer for islamic question 
+an opensource forum for islamic question and answear 
